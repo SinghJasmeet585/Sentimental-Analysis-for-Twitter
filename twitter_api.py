@@ -13,10 +13,10 @@ import json
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="awEhBjkdwTpaoNKnrfUrK6R99p "
-csecret="5pOluFfLPUqsj3aNghkVPSxwv4zl4QzCaodiziVdFICBXRA7Jk"
-atoken="742455567315173376-iS7VRRZf2thsyzjcKlnoA4ZlWZ3TLR7 "
-asecret="z3GzT9gpOtnvwTrmR49VGdybLLfZMPcbYKevwbps9TQB3"
+ckey="ydgftbxnftyugxbtt"
+csecret="ytrsfytgwyudytfwygdhtrfwgudhy"
+atoken="uuygxjhughyusghtg6syhgtwfhdt"
+asecret="hgwfdghjheyesjhtwetjqsyts7"
 
 class listener(StreamListener):
 
